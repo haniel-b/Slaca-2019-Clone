@@ -1,3 +1,3 @@
 To run
 - Run **yarn** 
-- Run **yarn start**
+- Then, run **yarn start**
